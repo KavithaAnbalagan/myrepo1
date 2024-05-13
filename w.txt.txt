@@ -1,0 +1,3 @@
+Public static void main(stringargs[]){
+      system .out.ptintln("welcome to java world");
+}
